@@ -81,7 +81,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://github.com/AlexisJW/gitFlowCollaboration)
+- Not Available
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -97,77 +97,23 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
+If you don't have git installed on your machine you can download it from [here](https://git-scm.com/downloads).
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
+Once you have git installed on your machine you can clone your project by running the command below to clone your project to your local machine
 
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
 
-### Install
+`git clone <https://github.com/AlexisJW/gitFlowCollaboration>`
 
-Install this project with:
-
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
+Alternatively, you can download the zip file of your project by clicking on the `Code` button on the right side of your project page and clicking on `Download ZIP`
 
 ### Usage
 
 To run the project, execute the following command:
-
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
-
-### Run tests
-
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Locate the folder where you cloned your project to and open the `index.html` file in your browser to view the project.
 
 <!-- AUTHORS -->
 
@@ -175,20 +121,10 @@ Example:
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Jean Walner ALEXIS**
 
 - GitHub: [@githubhandle](https://github.com/AlexisJW)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/jean-walner-alexis-b05539175/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
