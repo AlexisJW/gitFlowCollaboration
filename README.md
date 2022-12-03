@@ -58,18 +58,40 @@ After you're finished please remove all the comments and instructions!
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 [Set up a 'Hello Microverse' project] <a name="about-project"></a>
+**[Set up a 'Hello Microverse' project]** is a project to set up my first project Hello Microverse.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### By Microverse Student, Alexis <a name="tech-stack"></a>
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://developer.mozilla.org/en/docs/Web/HTML">HTML</a></li>
+    <li><a href="https://developer.mozilla.org/en/docs/Web/CSS">CSS</a></li>
+    <li><a href="#">Visual Studio</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="#">Without</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="#">Comming soon</a></li>
+  </ul>
+</details>
 
 >
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
 
 - **[Set up a linter for HTML and CSS]**
 - **[Create a new branch according to the GitHub flow rules.]**
@@ -88,8 +110,6 @@ After you're finished please remove all the comments and instructions!
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> Please follow the instruction bellow
 
 To get a local copy up and running, follow these steps.
 
@@ -115,16 +135,29 @@ Alternatively, you can download the zip file of your project by clicking on the 
 To run the project, execute the following command:
 Locate the folder where you cloned your project to and open the `index.html` file in your browser to view the project.
 
+### Run tests
+
+To run tests, run the following command:
+
+- No tests at the moment.
+
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
-
-> Mention all of the collaborators of this project.
 
 👤 **Jean Walner ALEXIS**
 
 - GitHub: [@githubhandle](https://github.com/AlexisJW)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/jean-walner-alexis-b05539175/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **[Make some changes]**
+- [ ] **[Code Review]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -142,9 +175,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+If you like this project, let me know in my email: jeanwalneralexis@yahoo.com, please!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -152,9 +183,7 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank...
+I would like to thank GOD and Microverse Team
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -162,15 +191,9 @@ I would like to thank...
 
 ## ❓ FAQ <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
+- **[How much times did you spend to build this project?]**
 
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
+  - [Only On hour.]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
